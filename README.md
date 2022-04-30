@@ -1,6 +1,7 @@
 # Basic-Writing-MD-File-Pb
 การเขียนไฟล์md <img height=20px src="https://camo.githubusercontent.com/7f65f69ad22ee0caca8ef19a8ba38d94f768b27bcd6b26e3440a429e1d54cfbf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d61726b646f776e2e737667" />
-<br>(Markdown Documentation File)
+<br>(Markdown Documentation File)<br>
+ข้อมูลวิธีการใช้งานเรียงตามความจำเป็นในการใช้งาน
 > ## การเขียน header :
   + ใช้รูปแบบการเขียนดังนี้ ```# ข้อความ``` 
     ในการเขียนสามารถเขียน```#```หน้าข้อความเพิ่มได้
@@ -64,10 +65,36 @@
     + ตัวอย่าง <br>
       *ข้อความ*
 
+> ## การเพิ่มรูปภาพ
+  + ใช้รูปแบบการเขียนดังนี้ ```![image](linkของรูป)```
+    + ตัวอย่าง
+    ![image](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
+   แบบการเขียนของตัวอย่าง
+    ```
+    ![image](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
+    ```
+  + หรือถ้าต้องการกำหนดขนาดของรูปให้ ใช้รูปแบบการเขียนดังนี้ ```<img height="ขนาดpx" width="ขนาดpx" src="linkรูป">```
+    + ตัวอย่าง
+     
+      <img height="100px" width="100px" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png"> 100px*100px  
+     
+      แบบการเขียนของตัวอย่าง
+      ```
+      <img height="100px" width="100px" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png">
+      ```
+
+
+> ## การแสดงตัวอักขรพิเศษ เช่น ```+``` ```#```
+  + ถ้าเกิดพิมพ์ในรูปแบบปกติแล้วไม่ปรากฏขึ้นให้ใช้ ```\``` นำหน้า
+    + ตัวอย่าง
+      \# ```\#```
+
+
 > ## การทำ quotes
   + ใช้รูปแบบการเขียนดังนี้ ```> ข้อความ```
     + ตัวอย่าง
       > ข้อความ
+
 
 > ## การทำตาราง
   + ใช้รูปแบบการเขียนดังนี้
@@ -83,12 +110,27 @@
       |ข้อมูล1  |ข้อมูล2  |ข้อมูล3  |
       |ข้อมูล4  |ข้อมูล5  |ข้อมูล6  |
 
-> ## การเพิ่มรูปภาพ
-  + ใช้รูปแบบการเขียนดังนี้ ```![image](linkของรูป)```
+
+> ## การจัดข้อมูลในรูปแบบพิเศษ
+  + รูปแบบ code ใช้รูปแบบการเขียนดังนี้ <br>
+    \``` ภาษาของโค้ด(ไม่เขียนก็ได้) <br>
+    โค้ด <br>
+    \```
     + ตัวอย่าง
-    ![image](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
+    ``` py
+    for i in range(0,10) :
+      print(i)
+    ```
     แบบการเขียนของตัวอย่าง
+    ``` 
+    '''py
+    for i in range(0,10) :
+      print(i)
+    '''
     ```
-    ![image](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)
-    ```
+      \* เปลี่ยน ''' เป็น ```
+
+
+
+
 
