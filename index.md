@@ -3,10 +3,10 @@
 (Markdown Documentation File)<br>
 ข้อมูลวิธีการใช้งานเรียงตามความจำเป็นในการใช้งาน
 > ## สารบัญ
-   1. [การเขียนไฟล์mdที่ควรรู้](/ที่ควรรู้)
-      1. [การเขียน header](/ที่ควรรู้/1-การเขียน_header.md)
-      2. [การขึ้นบรรทัดใหม่](/ที่ควรรู้/2-การขึ้นบรรทัดใหม่.md)
-      3. [การขีดเส้นใต้](/ที่ควรรู้/3-การขีดเส้นใต้.md)
+   1. [การเขียนไฟล์mdที่ควรรู้](ที่ควรรู้)
+      1. [การเขียน header](ที่ควรรู้/1-การเขียน_header.md)
+      2. [การขึ้นบรรทัดใหม่](ที่ควรรู้/2-การขึ้นบรรทัดใหม่.md)
+      3. [การขีดเส้นใต้](ที่ควรรู้/3-การขีดเส้นใต้.md)
       4. [การเขียน list](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/4-การเขียน_list.md)
       5. [การเขียนตัวหนา,ตัวเอียง,การขีดเส้นทับตัวหนังสือ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/5-การเขียนตัวหนา_ตัวเอียง_การขีดเส้นทับตัวหนังสือ.md)
       6. [การเพิ่มรูปภาพ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/6-การเพิ่มรูปภาพ.md)
@@ -17,8 +17,8 @@
       11. [การจัดข้อมูลในรูปแบบพิเศษ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/911-การจัดข้อมูลในรูปแบบพิเศษ.md)
       12. [การทำช่องcheck box](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/912-การทำช่องcheck_box.md)
    2. [เนื้อหาเพิ่มเติม](/เพิ่มเติม)
-      1. [การทำ Readme stats อย่างรวดเร็ว](/เพิ่มเติม/1-การทำReadme_stats.md)
-      2. [การทำ Top language card อย่างรวดเร็ว](/เพิ่มเติม/2-การทำTop_language_card.md)
+      1. [การทำ Readme stats อย่างรวดเร็ว](เพิ่มเติม/1-การทำReadme_stats.md)
+      2. [การทำ Top language card อย่างรวดเร็ว](เพิ่มเติม/2-การทำTop_language_card.md)
 
 
 
