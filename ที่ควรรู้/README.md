@@ -1,5 +1,5 @@
 # สารบัญ
-1. [การเขียน header](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/1-การเขียน%20header.md)
+1. [การเขียน header](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/1-การเขียน_header.md)
 2. [การขึ้นบรรทัดใหม่](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/2-การขึ้นบรรทัดใหม่.md)
 3. [การขีดเส้นใต้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/3-การขีดเส้นใต้.md)
 4. [การเขียน list](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/4-การเขียน_list.md)
