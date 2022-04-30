@@ -3,7 +3,7 @@
 2. [การขึ้นบรรทัดใหม่](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/2-การขึ้นบรรทัดใหม่.md)
 3. [การขีดเส้นใต้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/3-การขีดเส้นใต้.md)
 4. [การเขียน list](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/4-การเขียน_list.md)
-5. [การเขียนตัวหนา/ตัวเอียง](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/5-การเขียนตัวหนา_ตัวเอียง.md)
+5. [การเขียนตัวหนา,ตัวเอียง,การขีดเส้นทับตัวหนังสือ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/5-การเขียนตัวหนา_ตัวเอียง_การขีดเส้นทับตัวหนังสือ.md)
 6. [การเพิ่มรูปภาพ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/6-การเพิ่มรูปภาพ.md)
 7. [การแทรกลิงค์](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/7-การแทรกลิงค์.md)
 8. [การแสดงตัวอักขรพิเศษ เช่น + #](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/8-การแสดงตัวอักขรพิเศษ_เช่น_%2B_%23.md)
