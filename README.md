@@ -2,6 +2,7 @@
 การเขียนไฟล์md <img height=20px src="https://camo.githubusercontent.com/7f65f69ad22ee0caca8ef19a8ba38d94f768b27bcd6b26e3440a429e1d54cfbf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d61726b646f776e2e737667" />
 (Markdown Documentation File)<br>
 ข้อมูลวิธีการใช้งานเรียงตามความจำเป็นในการใช้งาน
+[เพจสำหรับการอ่านที่ง่ายขึ้น](https://boszgtec.github.io/Basic-Writing-MD-File-Pb/)
 > ## สารบัญ
    1. [การเขียนไฟล์mdที่ควรรู้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89)
       1. [การเขียน header](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/1-การเขียน_header.md)
