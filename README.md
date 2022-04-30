@@ -16,7 +16,6 @@
       10. [การทำตาราง](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/910-การทำตาราง.md)
       11. [การจัดข้อมูลในรูปแบบพิเศษ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/911-การจัดข้อมูลในรูปแบบพิเศษ.md)
       12. [การทำช่องcheck box](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/912-การทำช่องcheck_box.md)
-
    2. [เนื้อหาเพิ่มเติม](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1)
       1. [การทำ Readme stats อย่างรวดเร็ว](/เพิ่มเติม/1-การทำReadme_stats.md)
       2. [การทำ Top language card อย่างรวดเร็ว](/เพิ่มเติม/2-การทำTop_language_card.md)
