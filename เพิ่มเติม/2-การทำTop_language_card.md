@@ -16,4 +16,19 @@
        <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec" />
 
 
+> ## การเพิ่มข้อมูลต่างๆ
+   ตั้งแต่หลัง ```?username=```  ไปจะต้องใส่ ```&```
+   + ตัวอย่าง
+     ```
+     https://github-readme-stats.vercel.app/api?username=BoszGTec&ฟังก์ชั่นต่อๆไป=ข้อมูล
+     ```
+
+
+> ## การเปลี่ยน layout
+   ให้เพิ่ม ```layout=compact``` ในลิงค์
+   + ตัวอย่าง
+     ```
+     https://github-readme-stats.vercel.app/api?username=BoszGTec&layout=compact
+     ```
+
 
