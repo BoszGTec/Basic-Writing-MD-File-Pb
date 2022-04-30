@@ -4,7 +4,7 @@
 ข้อมูลวิธีการใช้งานเรียงตามความจำเป็นในการใช้งาน
 > ## สารบัญ
    1. [การเขียนไฟล์mdที่ควรรู้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89)
-      1. [การเขียน header](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/1-การเขียน%20header.md)
+      1. [การเขียน header](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/1-การเขียน_header.md)
       2. [การขึ้นบรรทัดใหม่](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/2-การขึ้นบรรทัดใหม่.md)
       3. [การขีดเส้นใต้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/3-การขีดเส้นใต้.md)
       4. [การเขียน list](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/4-การเขียน_list.md)
