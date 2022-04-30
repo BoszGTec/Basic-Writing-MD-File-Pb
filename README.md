@@ -4,6 +4,6 @@
 ข้อมูลวิธีการใช้งานเรียงตามความจำเป็นในการใช้งาน
 > ## สารบัญ
   1. [การเขียนไฟล์mdที่ควรรู้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89)
-  2. เพิ่มเติม
+  2. [เนื้อหาเพิ่มเติม](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1)
 
 <!-- End -->
