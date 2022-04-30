@@ -30,5 +30,7 @@
      ```
      https://github-readme-stats.vercel.app/api?username=BoszGTec&layout=compact
      ```
+     + ผลลัพธ์ <br>
+       <img height="50px" src="https://github-readme-stats.vercel.app/api?username=BoszGTec&layout=compact" />
 
 
