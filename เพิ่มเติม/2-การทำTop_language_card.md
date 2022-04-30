@@ -10,10 +10,10 @@
    + ในส่วน```?username=``` จะใส่ username github ของเรา เช่น 
      username github ของgithubนี้ชื่อ ```BoszGTec``` เราก็จะใส่ดังนี้
      ```
-     https://github-readme-stats.vercel.app/api/top-lang/?username=BoszGTec
+     https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec
      ```
      + ผลลัพธ์ <br>
-       <img height="50px" src="https://github-readme-stats.vercel.app/api/top-lang/?username=BoszGTec" />
+       <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoszGTec" />
 
 
 
