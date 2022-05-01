@@ -13,7 +13,7 @@
      https://github-readme-stats.vercel.app/api/pin/?username=BoszGTec&repo=Basic-Writing-MD-File-Pb
      ```
      + ผลลัพธ์ <br>
-       <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=BoszGTec&repo=Basic-Writing-MD-File-Pb" />
+       <img height="100px" src="https://camo.githubusercontent.com/7700b18a7758ef14542a5bd6401c43137a071e7c0e5433e694a734a0390e9469/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d426f737a47546563267265706f3d42617369632d57726974696e672d4d442d46696c652d5062" />
 
 ###### ข้อมูลเพิ่มเติมที่ [<img height="20px" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" /> GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
