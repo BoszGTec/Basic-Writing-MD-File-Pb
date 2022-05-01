@@ -7,7 +7,7 @@
 
 
 > ## การทำ
-  เราจะใช้เว็บ [Shields.io](https://shields.io/) ในการทำโดยจะมีรูปแบบลิงค์เบื้องต้นดังนี้
+  เราจะใช้เว็บ [Shields.io](https://shields.io/) ในการทำโดยจะมีรูปแบบลิงค์เบื้องต้นดังนี้ <br>
   1 แบบstatic
   ```
   https://img.shields.io/static/v1?label=&message=&color=
