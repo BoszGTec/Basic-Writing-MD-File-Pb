@@ -36,8 +36,8 @@
       ```
       + ผลลัพธ์ <br>
         ![Card](https://img.shields.io/static/v1?label=Oh%20My%20&message=Message)
-     ถ้าไม่ต้องการ ```label``` ให้ใช้ตามนี้
-     + ตัวอย่าง
+    ถ้าไม่ต้องการ ```label``` ให้ใช้ตามนี้
+    + ตัวอย่าง
       ```
       https://img.shields.io/badge/-NoLabel-fff
       ```
