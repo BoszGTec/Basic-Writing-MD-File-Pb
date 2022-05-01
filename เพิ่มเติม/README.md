@@ -3,3 +3,7 @@
 2. [การทำ Top language card อย่างรวดเร็ว](/เพิ่มเติม/2-การทำTop_language_card.md)
 3. [การทำ Repo card อย่างรวดเร็ว](/เพิ่มเติม/3-การทำRepo_card.md)
 4. [การทำ Icon](/เพิ่มเติม/4-การทำIcon.md)
+5. [การทำ Mini card](/เพิ่มเติม/5-การทำMini_card.md)
+
+
+
