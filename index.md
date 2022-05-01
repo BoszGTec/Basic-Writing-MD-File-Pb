@@ -26,6 +26,8 @@
       3. [การทำ Repo card อย่างรวดเร็ว](เพิ่มเติม/3-การทำRepo_card.html)
       4. [การทำ Icon](เพิ่มเติม/4-การทำIcon.html)
       5. [การทำ Mini card](เพิ่มเติม/5-การทำMini_card.html)
+      6. [การแทรกวิดีโอจาก YouTube](เพิ่มเติม/6-การแทรกวิดีโอจากYouTube.html)
+
 
 ###### ⚠️หากมีปัญหาในบางหน้าให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb) แทน
 ###### @2022 bossgeeg
