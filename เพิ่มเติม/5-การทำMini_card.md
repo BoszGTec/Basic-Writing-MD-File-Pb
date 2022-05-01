@@ -1,4 +1,5 @@
 # การทำ Mini card
+![Card](https://camo.githubusercontent.com/cb03632a6ba62c08040cb0738d5dc17eb927daeacff1f1d2668a74a7f976d709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f737a475465632d6666666666663f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d303030)
 ![Card](https://img.shields.io/badge/HTML-ffffff?style=flat&logo=html5&logoColor=E34F26)
 ![Card](https://img.shields.io/badge/CSS-ffffff?style=flat&logo=css3&logoColor=1572B6)
 > ## การทำแบบง่ายและเร็วที่สุด
