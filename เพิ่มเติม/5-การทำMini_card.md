@@ -107,7 +107,7 @@
      ```
      + ผลลัพธ์ <br>
        ![Card](https://img.shields.io/badge/-Pyrhon-fff?logo=python) <br>
-    สามารถค้นหา logo ที่ใช้ได้ที่ : [Simple Icons](https://simpleicons.org/)
+     สามารถค้นหา logo ที่ใช้ได้ที่ : [Simple Icons](https://simpleicons.org/)
   
   
 ###### ข้อมูลเพิ่มเติมที่ [<img height="20px" src=https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg> Shields.io](https://shields.io/)
