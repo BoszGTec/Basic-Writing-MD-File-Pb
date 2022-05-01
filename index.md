@@ -24,6 +24,7 @@
       1. [การทำ Readme stats อย่างรวดเร็ว](เพิ่มเติม/1-การทำReadme_stats.html)
       2. [การทำ Top language card อย่างรวดเร็ว](เพิ่มเติม/2-การทำTop_language_card.html)
       3. [การทำ Repo card อย่างรวดเร็ว](เพิ่มเติม/3-การทำRepo_card.html)
+      4. [การทำ Icon](เพิ่มเติม/4-การทำIcon.html)
 
 ###### ⚠️หากมีปัญหาในบางหน้าให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb)
 ###### @2022 bossgeeg
