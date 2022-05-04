@@ -104,10 +104,10 @@
    เพิ่ม  ```logo=``` เข้าไปแล้วตามด้วยชื่อโลโก้ที่ต้องการใช้
    + ตัวอย่าง
      ```
-     https://img.shields.io/badge/-Pyrhon-fff?logo=python
+     https://img.shields.io/badge/-Python-fff?logo=python
      ```
      + ผลลัพธ์ <br>
-       ![Card](https://img.shields.io/badge/-Pyrhon-fff?logo=python) <br>
+       ![Card](https://img.shields.io/badge/-Python-fff?logo=python) <br>
      สามารถค้นหา logo ที่ใช้ได้ที่ : [Simple Icons](https://simpleicons.org/)
   
   
