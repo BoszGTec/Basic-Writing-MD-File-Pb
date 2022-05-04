@@ -3,11 +3,11 @@
 ![Card](https://img.shields.io/badge/HTML-ffffff?style=flat&logo=html5&logoColor=E34F26)
 ![Card](https://img.shields.io/badge/CSS-ffffff?style=flat&logo=css3&logoColor=1572B6)
 > ## การทำแบบง่ายและเร็วที่สุด
-  ไปที่เว็บ https://shields.io/category/build แล้วกรอกข้อมูลในช่อง ```label``` ```message``` ```color```
+  ไปที่เว็บ [Shields.io](https://shields.io/) แล้วกรอกข้อมูลในช่อง ```label``` ```message``` ```color```
 
 
 > ## การทำ
-  เราจะใช้เว็บ [Shields.io](https://shields.io/) ในการทำโดยจะมีรูปแบบลิงค์เบื้องต้นดังนี้ <br>
+  เราจะใช้apiจากเว็บ [Shields.io](https://shields.io/) ในการทำโดยจะมีรูปแบบลิงค์เบื้องต้นดังนี้ <br>
   1 แบบstatic
   ```
   https://img.shields.io/static/v1?label=&message=&color=
