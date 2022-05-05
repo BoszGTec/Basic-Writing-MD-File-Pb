@@ -15,7 +15,7 @@ if(yt_link_type1.length>1){
  sum+=yt_link_type[yt_link_type1.length-1]+")"
  sum+="("+yt_link+")"
 }
-else{
+else {
  sum="[![ปกคลิปยูทูป](https://img.youtube.com/vi/"
  sum+=yt_link_type[yt_link_type2.length-2]+")"
  sum+="("+yt_link+")"
