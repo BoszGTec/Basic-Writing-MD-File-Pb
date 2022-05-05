@@ -1,3 +1,5 @@
+var Outp=document.getElementById("Output")
+Outp.value="Connect js"
 function Process(){
  var yt_link=document.getElementById("Yt_link")
  var Outp=document.getElementById("Output")
@@ -15,12 +17,12 @@ function Process(){
  if(yt_link_type1.length>1){
   sum="[![ปกคลิปยูทูป](https://img.youtube.com/vi/"
   sum+=yt_link_type[yt_link_type1.length-1]+")"
-  sum+="("+yt_link+")"
+  sum+="("+yt_link.value+")"
  }
  else {
   sum="[![ปกคลิปยูทูป](https://img.youtube.com/vi/"
   sum+=yt_link_type[yt_link_type2.length-1]+")"
-  sum+="("+yt_link+")"
+  sum+="("+yt_link.value+")"
  }
  Outp.value=sum
 }
