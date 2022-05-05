@@ -1,5 +1,8 @@
 var Outp=document.getElementById("Output")
 Outp.value="Connect js"
+function test(){
+ Outp.value+="Hello"
+}
 function Process(){
  var yt_link=document.getElementById("Yt_link")
  var Outp=document.getElementById("Output")
