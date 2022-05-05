@@ -1,6 +1,8 @@
 function Process(){
- var yt_link=document.getElementById("Yt_link").value
- var Output=document.getElementById("Output").value
+ var yt_link=document.getElementById("Yt_link")
+ yt_link=yt_link.value
+ var Outp=document.getElementById("Output")
+ Outp=Outp.value
 
  //Link type1 : https://www.youtube.com/watch?v=UUtZNjkFnlk
  //Link type2 : https://youtu.be/UUtZNjkFnlk
@@ -22,7 +24,7 @@ function Process(){
   sum+=yt_link_type[yt_link_type2.length-2]+")"
   sum+="("+yt_link+")"
  }
- Output=sum
+ Outp=sum
 }
 
 
