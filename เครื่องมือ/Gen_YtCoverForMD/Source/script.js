@@ -1,5 +1,5 @@
 function Process(){
- var yt_link=document.getElementById("Yt_link).value
+ var yt_link=document.getElementById("Yt_link").value
  var Output=document.getElementById("Output").value
 
  //Link type1 : https://www.youtube.com/watch?v=UUtZNjkFnlk
