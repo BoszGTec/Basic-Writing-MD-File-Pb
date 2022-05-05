@@ -1,5 +1,4 @@
-var Outp=document.getElementById("Output")
-Outp.value="Connect js"
+Gen()
 function Gen(){
  var yt_link=document.getElementById("Yt_link")
  var Outp=document.getElementById("Output")
