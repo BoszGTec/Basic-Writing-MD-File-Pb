@@ -1,9 +1,6 @@
 var Outp=document.getElementById("Output")
 Outp.value="Connect js"
-function test(){
- Outp.value+="Hello"
-}
-function Process(){
+function Gen(){
  var yt_link=document.getElementById("Yt_link")
  var Outp=document.getElementById("Output")
 
