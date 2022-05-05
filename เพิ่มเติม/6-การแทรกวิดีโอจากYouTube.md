@@ -13,9 +13,9 @@
      ```
      [![ปกคลิปยูทูป](https://img.youtube.com/vi/UUtZNjkFnlk/0.jpg)](https://www.youtube.com/watch?v=UUtZNjkFnlk)   
      ```
-     + ผลลัพธ์
+     + ผลลัพธ์ <br>
        [![ปกคลิปยูทูป](https://img.youtube.com/vi/UUtZNjkFnlk/0.jpg)](https://www.youtube.com/watch?v=UUtZNjkFnlk)
-       กดซับได้นะ
+       <br>กดซับได้นะ
 
 สามารถใช้เว็บ[Gen_YtCoverForMD](https://boszgtec.github.io/Basic-Writing-MD-File-Pb/เครื่องมือ/Gen_YtCoverForMD/)ช่วยทำได้
 
