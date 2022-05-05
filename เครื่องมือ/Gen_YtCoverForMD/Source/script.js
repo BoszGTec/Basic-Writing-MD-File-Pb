@@ -23,7 +23,7 @@ function Gen(){
   sum+=yt_link_type2[yt_link_type2.length-1]+"/0.jpg)"
   sum+="("+yt_link.value+")"
  }
- Outp.value=sum
+ Outp.innerText=sum
 }
 
 
