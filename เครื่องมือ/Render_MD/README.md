@@ -1,2 +1,5 @@
 # Render_MD
-ใข้แสดงผลการเขียนไฟล์ .md
+ใช้แสดงผลการเขียนไฟล์ .md
+
+###### Powered by [Marked](https://github.com/markedjs/marked)
+###### @bossgeeg123456
