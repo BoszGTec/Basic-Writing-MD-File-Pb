@@ -15,12 +15,12 @@ function Gen(){
  //[![ปกคลิปยูทูป](https://img.youtube.com/vi/idyt)(Linkyt)
  if(yt_link_type1.length>1){
   sum="[![ปกคลิปยูทูป](https://img.youtube.com/vi/"
-  sum+=yt_link_type1[yt_link_type1.length-1]+")"
+  sum+=yt_link_type1[yt_link_type1.length-1]+"/0.jpg)"
   sum+="("+yt_link.value+")"
  }
  else {
   sum="[![ปกคลิปยูทูป](https://img.youtube.com/vi/"
-  sum+=yt_link_type2[yt_link_type2.length-1]+")"
+  sum+=yt_link_type2[yt_link_type2.length-1]+"/0.jpg)"
   sum+="("+yt_link.value+")"
  }
  Outp.value=sum
