@@ -1,4 +1,4 @@
-# 👻Basic Writing MD File
+# 👻Basic-Writing-MD-File-Pb
 ![GitHub repo size](https://img.shields.io/github/repo-size/BoszGTec/Basic-Writing-MD-File-Pb?color=f0f0f0&logo=Github&label=Repo%20size)
 ![GitHub deployments](https://img.shields.io/github/deployments/BoszGTec/Basic-Writing-MD-File-Pb/github-pages?label=Deployments&logo=github)
 
