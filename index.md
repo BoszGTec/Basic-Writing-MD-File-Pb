@@ -31,7 +31,7 @@
       6. [การแทรกวิดีโอจาก YouTube](เพิ่มเติม/6-การแทรกวิดีโอจากYouTube.html)
 
 
-###### ⚠️หากมีปัญหาในบางหน้าให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb) แทน
+###### ⚠️หากมีปัญหาในหน้าใดๆให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb) แทน
 ###### @2022 bossgeeg
 
 
