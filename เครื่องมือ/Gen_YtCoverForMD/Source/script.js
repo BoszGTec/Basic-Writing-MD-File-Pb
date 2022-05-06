@@ -1,4 +1,4 @@
-
+// สำหรับทำ [![ปกคลิปยูทูป](https://img.youtube.com/vi/idyt)(Linkyt)
 Gen()
 function Gen(){
  var yt_link = document.getElementById("Yt_link")
