@@ -1,7 +1,18 @@
 function c_theme() {
-  var body=document.getElementsByTagName("body")[0]
+  var body = document.getElementsByTagName("body")[0]
   body.style = "background-color : var(--bs-dark) ;"
-  body.style += "color : var(--bs-gray-300); "
+  body.style += "color : var(--bs-gray-300) ; "
   
-  body = null 
+  var inp = document.getElementsByTagName("input")
+  for(let i=0;i<inp.lenght;i++){
+    inp[i].style = "background-color : var(--bs-dark) ;"
+    inp[i].style += "color : var(--bs-gray-300) ; "
+  }
+  
+  var texta = document.getElementsByTagName("textarea")
+  for(let i=0;i<texta.lenght;i++){
+    texta[i].style = "background-color : var(--bs-dark) ;"
+    texta[i].style += "color : var(--bs-gray-300) ; "
+  }
+  
 }
