@@ -1,4 +1,3 @@
-c_theme()
 function c_theme() {
   var body = document.getElementsByTagName("body")[0]
   body.style = "background-color : var(--bs-dark) ; \
@@ -20,7 +19,7 @@ function c_theme() {
 }
 
 function set_button(){  
-  var theme = documents.getElementById("theme")
+  var theme = document.getElementById("theme")
   theme.innerHTML = '<h1>Gen_YtCoverForMD</h1>'
   theme.innerHTML += ' <button class="btn btn-dark" onclick="c_theme_2()"> '
   theme.innerHTML += '  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16"> '
@@ -47,7 +46,7 @@ function c_theme_2() {
 }  
 
 function set_button_2(){
-  var theme = documents.getElementById("theme")
+  var theme = document.getElementById("theme")
   theme.innerHTML = '<h1>Gen_YtCoverForMD</h1>'
   theme.innerHTML += ' <button class="btn btn-dark" onclick="c_theme()">'
   theme.innerHTML += '  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16"> '
