@@ -10,6 +10,6 @@
 9. [การทำ quotes](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/9-การทำ_quotes.md)
 10. [การทำตาราง](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/910-การทำตาราง.md)
 11. [การจัดข้อมูลในรูปแบบพิเศษ](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/911-การจัดข้อมูลในรูปแบบพิเศษ.md)
-12. [การทำช่องcheck box](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/912-การทำช่องcheck_box.md)
+12. [การทำช่อง check box](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/blob/main/ที่ควรรู้/912-การทำช่องcheck_box.md)
 
 
