@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
+
+body{
+ font-family: 'Noto Sans Thai', sans-serif;
+}
+
+.cr{
+ font-size : 10px ;
+}
+
+.semple-link{
+ font-size : 18px ;
+}
+
+.form-control:focus {
+ border-color : #ff0000 ;
+ box-shadow : rgba(240,0,0,0.5) 0px 0px 0px 4px ;
+}
+
+
