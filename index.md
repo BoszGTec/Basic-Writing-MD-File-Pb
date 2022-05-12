@@ -32,7 +32,7 @@
 
 
 ###### ⚠️หากมีปัญหาในหน้าใดๆให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb) แทน
-###### [©2022 BoszGTec](https://github.com/BoszGTec)
+###### [@2022 BoszGTec](https://github.com/BoszGTec)
 
 
 
