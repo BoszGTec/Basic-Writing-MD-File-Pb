@@ -2,7 +2,7 @@
   เครื่องมือช่วยในการเขียนMDเพื่อแทรกลิงค์ YouTube
   [Link](https://boszgtec.github.io/Basic-Writing-MD-File-Pb/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%AD/Gen_YtCoverForMD/)
 
-![img](https://raw.githubusercontent.com/BoszGTec/Basic-Writing-MD-File-Pb/main/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%AD/Gen_YtCoverForMD/Source/SmartSelect.jpg)
+![img](https://raw.githubusercontent.com/BoszGTec/Basic-Writing-MD-File-Pb/main/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%AD/Gen_YtCoverForMD/Source/snapshot_boszgtec.github.io_1652388070235.png)
 
 สร้างด้วย <img height=25px src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667" />
 <img height=25px src="https://camo.githubusercontent.com/367dd0be4d8a115eea884c2794dd1ab8751034782a4cf9f0d0c1155fd984a7d0/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667" />
