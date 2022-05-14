@@ -1,3 +1,4 @@
+
 c_theme()
 function c_theme() {
   var body = document.getElementsByTagName("body")[0]
@@ -59,3 +60,4 @@ function set_button_2(){
   text += ' </button>' 
   theme.innerHTML = text
 }
+
