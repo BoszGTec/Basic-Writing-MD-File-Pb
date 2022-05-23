@@ -35,6 +35,7 @@
 
 ###### ⚠️หากมีปัญหาในหน้าใดๆให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb) แทน
 ###### [@2022 BoszGTec](https://github.com/BoszGTec)
+---
 <div class="fb-comments" data-href="https://boszgtec.github.io/Basic-Writing-MD-File-Pb/" data-width="100%" data-numposts="5"></div>
 
 
