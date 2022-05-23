@@ -1,7 +1,8 @@
 <center>
  <img height="110px" src="https://camo.githubusercontent.com/7f65f69ad22ee0caca8ef19a8ba38d94f768b27bcd6b26e3440a429e1d54cfbf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d61726b646f776e2e737667" />
 </center>
-<h1>BWMDF</h1>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/th_TH/sdk.js#xfbml=1&version=v13.0" nonce="3zl1SvCT"></script>
 
 # 👻Basic Writing MD File
 ![GitHub repo size](https://img.shields.io/github/repo-size/BoszGTec/Basic-Writing-MD-File-Pb?color=f0f0f0&logo=Github&label=Repo%20size)
@@ -34,6 +35,7 @@
 
 ###### ⚠️หากมีปัญหาในหน้าใดๆให้เปิดหน้านั้นๆอ่านใน [Github](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb) แทน
 ###### [@2022 BoszGTec](https://github.com/BoszGTec)
+<div class="fb-comments" data-href="https://boszgtec.github.io/Basic-Writing-MD-File-Pb/" data-width="100%" data-numposts="5"></div>
 
 
 
