@@ -38,7 +38,7 @@
 ###### [@2022 BoszGTec](https://github.com/BoszGTec)
 ---
 
-<div onload="if(document.getElementsByClassName('fb-comments')[0].innerText!=''){document.getElementById('load')[0].remove()}" class="fb-comments" data-href="https://boszgtec.github.io/Basic-Writing-MD-File-Pb/" data-width="100%" data-numposts="5"></div>
+<div onload="if(document.getElementsByClassName('fb-comments')[0].innerText!=' '){document.getElementById('load').remove()}" data-width="100%" data-numposts="5"></div>
 
 <div id="load">
  <style>
