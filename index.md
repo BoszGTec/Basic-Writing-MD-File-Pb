@@ -40,13 +40,6 @@
 
 <div class="fb-comments" data-href="https://boszgtec.github.io/Basic-Writing-MD-File-Pb/" data-width="100%" data-numposts="5"></div>
 
-<script>
- var check_fbcm = setInterval(
- ()=>{
-  if(document.getElementsByClassName("fb-comments")[0].innerText!=""){ document.getElementById("load").remove(); clearInterval(check_fbcm); }
- },500
- )
-</script>
 <div id="load">
   <style>
   @keyframes spin{to{transform:rotate(360deg)}}.loading{--innercolor:#385898;--mcolor:darkgray}#loadingcycle{width:15px;height:15px;border:solid 2px var(--mcolor);border-top:solid 2px var(--innercolor);border-radius:50%;animation:spin 1s infinite linear}.loading>span{display:inline-block;color:var(--mcolor)}
@@ -64,4 +57,14 @@
   </div>
  </center>
 </div>
+
+<script>
+ var check_fbcm = setInterval(
+ ()=>{
+  if(document.getElementsByClassName("fb-comments")[0].innerText!=""){ document.getElementById("load").remove(); clearInterval(check_fbcm); }
+ },500)
+</script>
+
+
+
 
