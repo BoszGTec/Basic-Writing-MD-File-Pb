@@ -38,7 +38,25 @@
 ###### [@2022 BoszGTec](https://github.com/BoszGTec)
 ---
 
-<div class="fb-comments" data-href="https://boszgtec.github.io/Basic-Writing-MD-File-Pb/" data-width="100%" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://boszgtec.github.io/Basic-Writing-MD-File-Pb/" data-width="100%" data-numposts="5">
+ 
+ <style>
+ @keyframes spin{to{transform:rotate(360deg)}}.loading{--innercolor:#385898;--mcolor:darkgray}#loadingcycle{width:15px;height:15px;border:solid 2px var(--mcolor);border-top:solid 2px var(--innercolor);border-radius:50%;animation:spin 1s infinite linear}.loading>span{display:inline-block;color:var(--mcolor)}
+ </style>
+ 
+ <center>
+ <div class="loading" >
+   <span id="loadingcycle" ></span> 
+   <span>Loading...</span>
+ </div>
+ <div class="loading" >
+  <span>Facebook Comment Plugin</span>
+  <br>
+  <span>Plase allow tracking<span>
+ </div>
+ </center>
+  
+</div>
 
 
 
