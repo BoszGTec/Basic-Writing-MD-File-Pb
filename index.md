@@ -61,8 +61,8 @@
 <script>
  var check_fbcm = setInterval(
  ()=>{
-  if(document.getElementsByClassName("fb-comments")[0].innerText != ""){ document.getElementById("load").remove(); clearInterval(check_fbcm); }
- },500)
+  if(document.getElementsByClassName("fb-comments")[0].innerText != " "){ document.getElementById("load").remove(); clearInterval(check_fbcm); }
+ },1000)
 </script>
 
 
