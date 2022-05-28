@@ -51,8 +51,8 @@
  </div>
  <div class="loading" >
   <span>Facebook Comment Plugin</span>
-  <br>
-  <span>Plase allow tracking<span>
+  <br />
+  <span>Plase allow tracking</span>
  </div>
  </center>
   
