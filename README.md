@@ -6,6 +6,7 @@
 (Markdown Documentation File)<br>
 ข้อมูลวิธีการใช้งานเรียงตามความจำเป็นในการใช้งาน <br>
 [เพจสำหรับการอ่านที่ง่ายขึ้น](https://boszgtec.github.io/Basic-Writing-MD-File-Pb/)
+[หรืออ่านที่BoszGTec-blog](https://boszgtec.github.io/Blog/2022/03/23/Basic_Writing_MD_File_Pb-index.html)
 > ## สารบัญ
    1. [การเขียนไฟล์mdที่ควรรู้](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89)
    2. [เนื้อหาเพิ่มเติม](https://github.com/BoszGTec/Basic-Writing-MD-File-Pb/tree/main/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1)
